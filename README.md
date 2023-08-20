@@ -100,20 +100,18 @@ I am excited to continue learning and growing in my career and make a meaningful
 
 ## 📊 Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adisen&show_icons=true&count_private=true&hide_border=true" align="center" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Emperordmasac&show_icons=true&count_private=true&hide_border=true" align="center" />
 
 <br/>
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=adisen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Emperordmasac&theme=dark&hide_border=false)<br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adisen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emperordmasac&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 <br/>
 
-<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cjb5xwogktlhjl73djhkb6u9f&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div> -->
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=adisen&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Emperordmasac&&style=flat-square" align="center" />
 </div>
