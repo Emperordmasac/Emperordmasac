@@ -72,7 +72,7 @@ I am excited to continue learning and growing in my career and make a meaningful
 </td></tr></table>
 
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Emperordmasac&theme=dark&hide_border=false)<br/>
+
 ## Connect with me
 
 <div align="center">
