@@ -14,7 +14,7 @@ I am excited to continue learning and growing in my career and make a meaningful
 
 <br/>
 
-## My Skill Set
+## My Skill Sets
 
 <table><tr><td valign="top" width="33%">
 
